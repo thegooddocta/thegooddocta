@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thegooddocta
+- 👀 I’m interested in software supporing general aviation.
+- 🌱 I’m currently re-learning Rails!
+- 📫 How to reach me ... I'll post when the new site is up!
